@@ -22,7 +22,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="Q&A Demo")
 
-st.header("Gemini LLM Application")
+st.header("Gemini Text Q&A Application")
 
 input = st.text_input("Input: ", key="input")
 
