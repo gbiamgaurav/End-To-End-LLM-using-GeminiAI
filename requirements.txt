@@ -3,3 +3,5 @@ google-generativeai
 python-dotenv
 ipykernel
 jupyter
+chromadb
+PyPDF2
